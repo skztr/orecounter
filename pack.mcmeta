@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 3,
+		"pack_format": 7,
 		"description": "count the ore which has been broken, not silk-touched"
 	}
 }

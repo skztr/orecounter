@@ -13,13 +13,23 @@ not using the Silk Touch enchantment.
 
 Installs the following scoreboards:
 
- - oc_bcoal
- - oc_bdiamond
- - oc_bemerald
- - oc_blapis
- - oc_bquartz
- - oc_bredstone
+ - oc_b_coal
+ - oc_b_diamond
+ - oc_b_emerald
+ - oc_b_lapis
+ - oc_b_quartz
+ - oc_b_redstone
+ - oc_b_iron
+ - oc_b_gold            overworld
+ - oc_b_ngold           nether
+ - oc_b_bgold           both
+
 
 You'll probably want to display one of them, via (for example):
 
     scoreboard objectives setdisplay list oc_bdiamond
+
+
+
+
+Deepslate, iron and gold support added by Chaim0
