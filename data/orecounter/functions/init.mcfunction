@@ -31,7 +31,7 @@ scoreboard objectives add oc_b_copper dummy
 
 scoreboard objectives add oc_m_gold minecraft.mined:minecraft.gold_ore
 scoreboard objectives add oc_m_dgold minecraft.mined:minecraft.deepslate_gold_ore
-scoreboard objectives add oc_b_gold dummy
 scoreboard objectives add oc_m_ngold minecraft.mined:minecraft.nether_gold_ore
+scoreboard objectives add oc_b_gold dummy
 scoreboard objectives add oc_b_ngold dummy
-scoreboard objectives add oc_b_tgold dummy
+scoreboard objectives add oc_b_bgold dummy
