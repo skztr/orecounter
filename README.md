@@ -13,13 +13,16 @@ not using the Silk Touch enchantment.
 
 Installs the following scoreboards:
 
- - oc_bcoal
- - oc_bdiamond
- - oc_bemerald
- - oc_blapis
- - oc_bquartz
- - oc_bredstone
+ - oc_b_-_coal
+ - oc_b_-_copper
+ - oc_b_-_diamond
+ - oc_b_-_emerald
+ - oc_b_-_gold
+ - oc_b_-_iron
+ - oc_b_-_lapis
+ - oc_b_-_quartz
+ - oc_b_-_redstone
 
 You'll probably want to display one of them, via (for example):
 
-    scoreboard objectives setdisplay list oc_bdiamond
+    scoreboard objectives setdisplay list oc_b_-_diamond
